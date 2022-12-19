@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            FibonacciSeries fibonacci = new FibonacciSeries();
+            fibonacci.Fibonacci();
         }
     }
 }
