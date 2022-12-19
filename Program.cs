@@ -8,8 +8,10 @@
             //fibonacci.Fibonacci();
             //PerfectNumber perfect = new PerfectNumber();
             //perfect.PerfectNum();
-            PrimeNumbers prime = new PrimeNumbers();
-            prime.Prime();
+            //PrimeNumbers prime = new PrimeNumbers();
+            //prime.Prime();
+            ReverseNumber reverse = new ReverseNumber();
+            reverse.ReverseNum();
         }
     }
 }
