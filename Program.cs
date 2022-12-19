@@ -4,10 +4,12 @@
     {
         static void Main(string[] args)
         {
-           // FibonacciSeries fibonacci = new FibonacciSeries();
+            // FibonacciSeries fibonacci = new FibonacciSeries();
             //fibonacci.Fibonacci();
-            PerfectNumber perfect = new PerfectNumber();
-            perfect.PerfectNum();
+            //PerfectNumber perfect = new PerfectNumber();
+            //perfect.PerfectNum();
+            PrimeNumbers prime = new PrimeNumbers();
+            prime.Prime();
         }
     }
 }
