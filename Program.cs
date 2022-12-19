@@ -4,8 +4,10 @@
     {
         static void Main(string[] args)
         {
-            FibonacciSeries fibonacci = new FibonacciSeries();
-            fibonacci.Fibonacci();
+           // FibonacciSeries fibonacci = new FibonacciSeries();
+            //fibonacci.Fibonacci();
+            PerfectNumber perfect = new PerfectNumber();
+            perfect.PerfectNum();
         }
     }
 }
